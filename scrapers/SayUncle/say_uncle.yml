@@ -1,0 +1,36 @@
+name: Say Uncle
+
+
+sceneByURL:
+  - url:
+      - sayuncle.com/movies
+      - familydick.com/movies
+      - missionaryboys.com/movies
+      - brothercrush.com/movies
+      - youngperps.com/movies
+      - latinleche.com/movies
+      - blackgodz.com/movies
+      - yesfather.com/movies
+      - dadcreep.com/movies
+      - bottomgames.com/movies
+      - stayhomebro.com/movies
+      - twinktrade.com/movies
+      - boysatcamp.com/movies
+      - doctortapes.com/movies
+      - bullyhim.com/movies
+      - militarydick.com/movies
+      - therapydick.com/movies
+      - varsitygrip.com/movies
+      - pigbottoms.com/movies
+      - dickrides.com/movies
+      - stickyrub.com/movies
+      - freeusetwink.com/movies
+      - anonimo.com/movies
+      - buttvirgins.com/movies
+      - europeenz.com/movies
+    action: script
+    script:
+      - python
+      - say_uncle.py
+      - scene-by-url
+# Last Updated August 8, 2026

@@ -1,0 +1,9 @@
+id: say_uncle
+name: Say Uncle
+metadata: {}
+version: 1
+date: "2026-08-08 11:47:59"
+requires: []
+files:
+- say_uncle.yml
+- say_uncle.py
